@@ -1,0 +1,26 @@
+{
+  "name": "Admin Andiamo",
+  "short_name": "Andiamo",
+  "description": "Sistema de Gestión de Pizzas Andiamo",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ff4500",
+  "theme_color": "#ff4500",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
